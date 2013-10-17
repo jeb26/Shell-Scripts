@@ -1,0 +1,14 @@
+ /test_dir/a is a file
+ /test_dir/b is a file
+ /test_dir//dcache is a file
+ /test_dir//dcron is a file
+ /test_dir//dgames is a file
+ /test_dir//dlib is a file
+ /test_dir//dlog is a file
+ /test_dir//drun is a file
+ /test_dir//dtmp is a file
+ /test_dir/movies is a file
+ /test_dir//treea is a file
+ /test_dir//treeb is a file
+ /test_dir//treec is a file
+ /test_dir//treed is a file
